@@ -1,0 +1,35 @@
+{
+    "__class__": "ManejadorPacientes",
+    "pacientes": [
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "apellido": "Benemerito",
+                "nombre": "Ignacio",
+                "telefono": "(264)4860777",
+                "altura": 180,
+                "peso": 70
+            }
+        },
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "apellido": "Isaac",
+                "nombre": "Badias",
+                "telefono": "(264)5555555",
+                "altura": 175,
+                "peso": 75
+            }
+        },
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "apellido": "Pe\u00f1a",
+                "nombre": "Juan",
+                "telefono": "(264)7777777",
+                "altura": 175,
+                "peso": 90
+            }
+        }
+    ]
+}
